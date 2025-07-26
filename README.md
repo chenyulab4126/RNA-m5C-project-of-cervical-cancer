@@ -14,4 +14,4 @@ Shimin Yang
 
 - pipeBS-seq:  Cervical cancer RNA BS-seq data analysis.
 - pipeRNA-seq: Cervical cancer RNA-seq data analysis.
-- RNA-m5C-DGIM: RNA m5C-Driven Gene Identification Model (RNA-m5C-DGIM)
+- Model: RNA m5C-Driven Gene Identification Model
