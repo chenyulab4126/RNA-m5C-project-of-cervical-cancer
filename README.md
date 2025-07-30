@@ -16,4 +16,4 @@ Shimin Yang
 
 - pipeBS-seq:  Cervical cancer RNA BS-seq data analysis.
 - pipeRNA-seq: Cervical cancer RNA-seq data analysis.
-- Model: RNA m5C-Driven Gene Identification Model
+- Model: MORGAN (M5C-Oriented RNA Gene Identification via Adaptive Gaussian Mixture Network)
